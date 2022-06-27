@@ -28,7 +28,7 @@ header {
     background: #fff;
     padding: 10px;
     border-radius: 25px;
-    width: 200px;
+    width: 220px;
     margin-top: 20px;
     margin-bottom: 20px;
 }
@@ -221,7 +221,7 @@ ul {
     background: #fff;
     padding: 10px;
     border-radius: 25px;
-    width: 200px;
+    width: 220px;
 }
 #user-details{
     color: cadetblue;
@@ -296,7 +296,7 @@ button:hover {
 }
 .btn-display {
     display: flex;
-    justify-content: center;
+    justify-content: space-between;
 }
 .switch {
     position: relative;
